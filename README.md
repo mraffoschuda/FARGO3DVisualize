@@ -1,4 +1,4 @@
-# FARGO3DVISUAL
+# FARGO3DVisualize
 
 # INTRODUCTION:
 This is the main directory of "nombre de la librerìa" Python library, a tool for developing visualizations with FARGO3D simulations.
